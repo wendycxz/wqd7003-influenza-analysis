@@ -1,5 +1,5 @@
 # Influenza Analysis
-Analysing influenza outbreak for UM MDatSc WQD7003 Data Analytics course.
+Analysing influenza outbreak for UM WQD7003 Data Analytics course.
 
 ## Course Info
 Name: Data Analytics
@@ -17,17 +17,15 @@ Repo type: Group project
 To be updated
 
 ## How to use this Repository
-To use this component library, simply clone this repository to your working project directory.
 
-1. At your project directory
+1. At your project directory, clone this repo
 
 ```
 git clone https://github.com/karhong-sam/wqd7003-influenza-analysis.git
 ```
 2. Activate your venv (Windows)
 ```
-$ python -m venv venv
-$ venv\Scripts\activate
+python -m venv venv & venv\Scripts\activate
 ```
 3. Install the python dependencies for this project
 ```
